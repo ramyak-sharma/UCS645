@@ -1,0 +1,100 @@
+*.o
+.DS_Store
+A2/ignore
+
+# Build directories
+build/
+bin/
+lib/
+out/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+_deps
+
+# Compiled executables
+sim
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+*.ko
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.la
+*.a
+*.lib
+
+# Fortran module files
+*.mod
+*.smod
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.vscode/
+.vs/
+*.code-workspace
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Log files
+*.log
+
+# Core dumps
+core
+core.*
+
+# CMake build type specific
+Debug/
+Release/
+RelWithDebInfo/
+MinSizeRel/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+A2/Q1/imgui-sfml-old/
+A2/Q1/imgui-sfml/
+A2/Q1/imgui/
